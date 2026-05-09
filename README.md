@@ -94,7 +94,7 @@ Analyze Blinkit’s sales data to optimize revenue, reduce wastage, and improve 
 
 ## Screenshots
 
-*(Add 4–6 dashboard screenshots here)*
+![Blinkit Dashboard ]:-  <a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2"> **Blinkit** </a>
 
 ---
 
