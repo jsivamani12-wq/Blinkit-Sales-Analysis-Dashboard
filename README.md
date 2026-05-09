@@ -23,7 +23,7 @@ Technologies: Power BI, Advanced DAX, Power Query (M), Data Modeling, Star Schem
 AI Tools Used: Grok (xAI), ChatGPT & GitHub Copilot for DAX optimization and rapid development.
 This project perfectly showcases my capability to deliver high-value business solutions across Data Analytics, Business Intelligence, Finance & Revenue Operations, Merchant Analytics, Retail Operations, and Supply Chain domains.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-FF0000?style=for-the-badge&logo=owerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/ower%20BI-FF0000?style=for-the-badge&logo=powerbi&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge)
 ![Quick Commerce](https://img.shields.io/badge/Quick%20Commerce-Analytics-green?style=for-the-badge)
 
