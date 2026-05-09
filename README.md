@@ -1,6 +1,6 @@
 # Blinkit-Sales-Analysis-Dashboard
 End-to-End Power BI Dashboard for Blinkit Sales Analysis | Dynamic KPIs, Outlet Performance, Product Insights &amp; Advanced DAX | Built from Scratch
-
+> Transforming 1.2 Million rows of raw sales data into **actionable business intelligence** for revenue optimization, inventory management, and outlet performance.
 - Built end-to-end Power BI dashboard for $1.20M dataset with ETL, data cleaning & modeling
 - Identified high-performing outlets/products and conducted root cause analysis on underperformance
   & stock wastage
