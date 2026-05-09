@@ -13,7 +13,8 @@ End-to-End Power BI Dashboard for Blinkit Sales Analysis | Dynamic KPIs, Outlet 
 
 # Blinkit Sales Analysis Dashboard | End-to-End Power BI Project
 
-Reference image:- <a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2"> click..me </a>
+- Pre-view image:- <a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2">click..me </a>
+
 Developed a comprehensive, interactive Power BI dashboard for Blinkit, India’s leading quick-commerce platform, to analyze and optimize sales performance, outlet efficiency, product category trends, and customer satisfaction.
 This project demonstrates strong expertise in turning complex retail data into strategic insights that drive revenue growth, improve inventory decisions, and enhance merchant performance in the fast-paced 10-minute delivery ecosystem.
 Key Highlights:
@@ -47,7 +48,7 @@ This project analyzes sales performance, outlet operations, product trends, and 
 The dashboard helps stakeholders make faster, data-driven decisions to drive revenue growth, optimize inventory, and improve merchant performance in the fast-paced 10-minute delivery industry.
 
 ** Full Project Walkthrough Video:**  
-[Watch Here] <a href="https://youtu.be/mmxVCFceQgU?si=ykBLP6Rm6dIAjbju"> Blickit Dashboard </a>
+[Watch Here] <a href="https://youtu.be/mmxVCFceQgU?si=ykBLP6Rm6dIAjbju"> Blikit Dashboard </a>
 
 ---
 
