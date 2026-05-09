@@ -3,14 +3,14 @@
 
 **End-to-End Power BI Dashboard for India's Leading Quick-Commerce Platform**
 
-![Blinkit Dashboard Preview](preview-image-link-here)  
+![Blinkit Dashboard Preview]:-  <a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2"> **Blinkit** </a>
 *(Replace with actual screenshot or GIF)*
 
 > Transforming 1.2 Million rows of raw sales data into **actionable business intelligence** for revenue optimization, inventory management, and outlet performance.
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 Developed a **comprehensive, interactive, and production-ready Power BI dashboard** for **Blinkit** to analyze sales performance, outlet efficiency, product trends, and customer satisfaction across India.
 
@@ -25,7 +25,7 @@ This dashboard empowers stakeholders with real-time insights to drive faster dec
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 | Feature                        | Description |
 |-------------------------------|-----------|
@@ -38,7 +38,7 @@ This dashboard empowers stakeholders with real-time insights to drive faster dec
 
 ---
 
-## 📽️ Project Walkthrough Video
+## Project Walkthrough Video
 
 [![Watch Full Project Demo](https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/mmxVCFceQgU?si=ykBLP6Rm6dIAjbju)
 
@@ -46,12 +46,7 @@ This dashboard empowers stakeholders with real-time insights to drive faster dec
 
 ---
 
-## 🛠️ Technologies & Tools Used
-
-![Power BI](https://img.shields.io/badge/Power%20BI-FF0000?style=flat&logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/Datasets-0078D4?style=flat)
-![Power Query](https://img.shields.io/badge/my.wookbook-00B4A8?style=flat)
-
+## Technologies & Tools Used
 
 <a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2">![Quick Commerce](https://img.shields.io/badge/Blinkit-Analytics-9900cc?style=for-the-badge)</a>
 <A href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/blob/main/blinkit%20project.pbix">![Power BI](https://img.shields.io/badge/MyBI-WookBook-33ff00?style=for-the-badge&logo=powerbi&logoColor=white) </a>
@@ -68,7 +63,7 @@ This dashboard empowers stakeholders with real-time insights to drive faster dec
 
 ---
 
-## 📋 Project Structure
+## Project Structure
 
 **1. Business Objective**  
 Analyze Blinkit’s sales data to optimize revenue, reduce wastage, and improve outlet & product performance.
@@ -90,7 +85,7 @@ Analyze Blinkit’s sales data to optimize revenue, reduce wastage, and improve 
 
 ---
 
-## 🚀 Business Impact
+## Business Impact
 
 - Faster **stakeholder decision-making** through automated KPI reporting
 - Clear identification of **top-performing** vs **underperforming** outlets and products
@@ -98,7 +93,7 @@ Analyze Blinkit’s sales data to optimize revenue, reduce wastage, and improve 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 *(Add 4–6 dashboard screenshots here)*
 
@@ -115,11 +110,3 @@ Analyze Blinkit’s sales data to optimize revenue, reduce wastage, and improve 
 **Made with ❤️ using Power BI**
 
 ---
-
-### Would you like me to also create:
-
-1. A **shorter version** for LinkedIn?
-2. A **portfolio page version** (HTML style)?
-3. Add **badges** and **stats** section?
-
-Just say the word and I’ll refine it further!
