@@ -6,7 +6,7 @@ End-to-End Power BI Dashboard for Blinkit Sales Analysis | Dynamic KPIs, Outlet 
   & stock wastage
 - Recommended dynamic discounting & inventory strategies to reduce wastage and increase revenue
 - Automated KPI reporting for faster stakeholder decision-making
-- 
+
 # Blinkit Sales Analysis Dashboard | End-to-End Power BI Project
 
 Reference image:- <a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2"> click..me </a>
