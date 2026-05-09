@@ -27,11 +27,8 @@ Technologies: Power BI, Advanced DAX, Power Query (M), Data Modeling, Star Schem
 AI Tools Used: Grok (xAI), ChatGPT & GitHub Copilot for DAX optimization and rapid development.
 This project perfectly showcases my capability to deliver high-value business solutions across Data Analytics, Business Intelligence, Finance & Revenue Operations, Merchant Analytics, Retail Operations, and Supply Chain domains.
 
-![Power BI](https://img.shields.io/badge/ower%20BI-FF0000?style=for-the-badge&logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge)
-![Quick Commerce](https://img.shields.io/badge/Quick%20Commerce-Analytics-green?style=for-the-badge)
 
-### 🚀 Key Achievements
+### Key Achievements
 
 - Built a **complete end-to-end interactive Power BI dashboard** for Blinkit from scratch in just a few weeks.
 - Designed advanced DAX measures and dynamic visualizations that provide deep insights into sales, outlets, and product performance.
@@ -41,7 +38,7 @@ This project perfectly showcases my capability to deliver high-value business so
 
 ---
 
-### 📌 Project Description
+### Project Description
 
 **A powerful, end-to-end Power BI dashboard** that transforms raw Blinkit sales data into clear, strategic business intelligence for India’s leading quick-commerce platform.
 
@@ -49,12 +46,12 @@ This project analyzes sales performance, outlet operations, product trends, and 
 
 The dashboard helps stakeholders make faster, data-driven decisions to drive revenue growth, optimize inventory, and improve merchant performance in the fast-paced 10-minute delivery industry.
 
-**🎥 Full Project Walkthrough Video:**  
-[Watch Here](https://youtu.be/mmxVCFceQgU)
+** Full Project Walkthrough Video:**  
+[Watch Here] <a href="https://youtu.be/mmxVCFceQgU?si=ykBLP6Rm6dIAjbju"> Blickit Dashboard </a>
 
 ---
 
-### ✨ Key Features
+### Key Features
 
 - Executive KPI Cards: Total Sales, Average Sales per Transaction, Total Items Sold, Average Customer Rating
 - In-depth Outlet Analysis by Type, Size & Location Tier (Tier 1/2/3)
@@ -65,7 +62,7 @@ The dashboard helps stakeholders make faster, data-driven decisions to drive rev
 
 ---
 
-### 🛠️ Technologies & Tools Used (ATS Friendly)
+### Technologies & Tools Used (ATS Friendly)
 
 - **Power BI Desktop & Power BI Service**
 - **Advanced DAX** (Time Intelligence, Dynamic Measures, KPIs)
@@ -76,7 +73,7 @@ The dashboard helps stakeholders make faster, data-driven decisions to drive rev
 
 ---
 
-### 💼 Ideal For Roles In
+### Ideal For Roles In
 
 - Data Analyst (DA)
 - Business Analyst (BA)
@@ -88,9 +85,9 @@ The dashboard helps stakeholders make faster, data-driven decisions to drive rev
 
 ---
 
-### 📊 Business Impact
+### Business Impact
 This dashboard enables data-backed decisions on revenue optimization, outlet performance improvement, product assortment strategy, and inventory management — making it highly relevant for real-world business environments.
 
 ---
 
-### 📁 Project Structure
+### Project Structure
