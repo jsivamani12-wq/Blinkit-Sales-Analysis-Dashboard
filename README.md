@@ -6,7 +6,6 @@
 ![Blinkit Dashboard Preview]:-  
 
 <img width="1397" height="788" alt="image" src=https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/blob/main/Screenshot%20(30).png />
-<img src="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2">
 
 > Transforming 1.2 Million rows of raw sales data into **actionable business intelligence** for revenue optimization, inventory management, and outlet performance.
 
