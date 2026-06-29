@@ -3,7 +3,10 @@
 
 **End-to-End Power BI Dashboard for India's Leading Quick-Commerce Platform**
 
-![Blinkit Dashboard Preview]:-  <a href="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2"> **Blinkit** </a>
+![Blinkit Dashboard Preview]:-  
+
+
+<img src="https://github.com/jsivamani12-wq/Blinkit-Sales-Analysis-Dashboard/commit/de89c550c192be29f733064cabfa1ea8f2a486a2"> **Blinkit** </img>
 
 > Transforming 1.2 Million rows of raw sales data into **actionable business intelligence** for revenue optimization, inventory management, and outlet performance.
 
